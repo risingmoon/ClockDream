@@ -17,9 +17,6 @@ package me.risingmooon.clockdream
 import android.app.Activity
 import android.os.Bundle
 
-/**
- * Loads [MainFragment].
- */
 class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
